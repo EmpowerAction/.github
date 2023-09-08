@@ -34,7 +34,6 @@ El documento presenta una sofisticada arquitectura para un ecosistema financiero
 Introducción
 Impulsando una nueva era de productividad. Conectando talentos y personas de forma transparente y sin intermediación. Live Demo Disponible
 
-Acceso
 La interfaz está disponible en empoweraction.network.
 
 
