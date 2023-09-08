@@ -55,7 +55,7 @@ The paper presents a comprehensive framework for our decentralized EmpowerAction
 ## Equipo
 
 <p align="center">
-  <img src="https://github.com/EmpowerAction/Front-End/blob/master/img/About-US/QuienesSomos.png" alt="Quienes Somos" width="1200"/>
+  <img src="https://github.com/EmpowerAction/Front-End/blob/master/img/About%20US/QuienesSomos.png" alt="Quienes Somos" width="1200"/>
 </p>
 
 ---
